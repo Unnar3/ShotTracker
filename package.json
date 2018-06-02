@@ -1,0 +1,8 @@
+{
+  "name": "ShotTracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Unnar Axelsson",
+  "license": "MIT",
+  "private": false
+}
